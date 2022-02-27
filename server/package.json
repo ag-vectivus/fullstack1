@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Test backend for simple react blog.",
+  "main": "server.js",
+  "scripts": {
+    "test": "server test"
+  },
+  "keywords": [
+    "server",
+    "node",
+    "express"
+  ],
+  "author": "ASGalecki",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.0.12",
+    "morgan": "^1.10.0"
+  }
+}
